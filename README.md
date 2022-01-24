@@ -1,4 +1,4 @@
-#Sudoku Solver - Full Stack App
+# Sudoku Solver - Full Stack App
 
 ## Technologies used:
 - JavaScript
