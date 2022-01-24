@@ -9,6 +9,7 @@
 - Axios
 - dotenv
 - nodemon
+- cors
 
 ## API used:
 [RapidAPI - Sudoku Solver](https://rapidapi.com/sosier/api/solve-sudoku/)
