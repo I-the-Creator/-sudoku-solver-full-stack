@@ -1,7 +1,7 @@
 # Sudoku Solver - Full Stack App
 
 ## Technologies used:
-- JavaScript
+- Vanilla JavaScript
 - Node.js
 
 ## ```npm``` libraries used
