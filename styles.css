@@ -1,0 +1,33 @@
+#puzzle {
+    width: 450px;
+    height: 450px;
+}
+
+#puzzle input {
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box;
+  border-spacing: 0;
+  border: 1px gray solid;
+  text-align: center;
+  padding-left: 16px;
+  font-weight: 800;
+}
+
+.add-section {
+  background-color: lightgray;
+}
+
+#solve-button {
+  background-color: coral;
+  color: white;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+#solve-button:hover {
+  background-color: rgb(220, 103, 60);
+}
