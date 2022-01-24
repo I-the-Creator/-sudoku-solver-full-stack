@@ -1,7 +1,5 @@
 # Sudoku Solver - Full Stack App
 
-**Created under @kubowania API tutorial**
-
 ## Technologies used:
 - JavaScript
 - Node.js
