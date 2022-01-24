@@ -4,11 +4,11 @@
 - JavaScript
 - Node.js
 
-## npm libraries used
+## ```npm``` libraries used
 - Express.js
 - Axios
 - dotenv
 - nodemon
 
 ## API used
-[https://rapidapi.com/sosier/api/solve-sudoku/](RapidAPI - Sudoku Solver)
+[RapidAPI - Sudoku Solver](https://rapidapi.com/sosier/api/solve-sudoku/)
