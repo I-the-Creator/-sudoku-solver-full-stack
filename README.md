@@ -14,4 +14,5 @@
 ## API used:
 [RapidAPI - Sudoku Solver](https://rapidapi.com/sosier/api/solve-sudoku/)
 
-**Thanks to [@kubowania](https://github.com/kubowania) for tutorial**
+## 
+**I thank [@kubowania](https://github.com/kubowania) for idea & tutorial**
